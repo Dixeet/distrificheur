@@ -1,0 +1,19 @@
+{
+  "name": "distrificheur",
+  "version": "0.1.0",
+  "description": "Simple file sharing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dixeet/distrificheur.git"
+  },
+  "author": "Dixit",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/Dixeet/distrificheur/issues"
+  },
+  "homepage": "https://github.com/Dixeet/distrificheur#readme"
+}
